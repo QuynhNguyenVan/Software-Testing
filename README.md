@@ -228,7 +228,7 @@ Sau khi gửi request, server trả về kết quả thành công. Status code n
 ## 5.5. Kiểm thử 
 Ảnh minh họa:
 
-<img width="1319" height="757" alt="{2014E748-C240-431D-BAB3-A68176FC10A2}" src="https://github.com/user-attachments/assets/d1b83ae3-dbda-4286-bbb6-82f5b35009b8" />
+<img width="1431" height="798" alt="{34B54106-121B-4C2F-B498-814FEA5EA9FA}" src="https://github.com/user-attachments/assets/29d17ed1-c468-476d-b324-aae406d12405" />
 
 Chi tiết kiểm thử: 
 [
