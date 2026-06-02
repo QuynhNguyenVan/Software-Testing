@@ -225,7 +225,7 @@ Sau khi gửi request, server trả về kết quả thành công. Status code n
 ```
 
 Điều này cho thấy request xóa dữ liệu đã được thực hiện thành công.
-
+## 5.5. Kiểm thử 
 Ảnh minh họa:
 
 <img width="1319" height="757" alt="{2014E748-C240-431D-BAB3-A68176FC10A2}" src="https://github.com/user-attachments/assets/d1b83ae3-dbda-4286-bbb6-82f5b35009b8" />
