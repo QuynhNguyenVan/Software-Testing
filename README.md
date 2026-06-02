@@ -228,7 +228,91 @@ Sau khi gửi request, server trả về kết quả thành công. Status code n
 
 Ảnh minh họa:
 
-![DELETE Request](images/delete-request.png)
+<img width="1319" height="757" alt="{2014E748-C240-431D-BAB3-A68176FC10A2}" src="https://github.com/user-attachments/assets/d1b83ae3-dbda-4286-bbb6-82f5b35009b8" />
+
+Chi tiết kiểm thử: 
+[
+    {  
+    
+        "id": 9209,
+        "uid": "61b0ecef-a169-49c1-9b7e-616aebe82641",
+        "password": "zWosu2p6UN",
+        "first_name": "Davis",
+        "last_name": "Hand",
+        "username": "davis.hand",
+        "email": "davis.hand@email.com",
+        "avatar": "https://robohash.org/corruptiutrepudiandae.png?size=300x300&set=set1",
+        "gender": "Genderfluid",
+        "phone_number": "+223 522.344.8113",
+        "social_insurance_number": "625916069",
+        "date_of_birth": "1978-03-23",
+        "employment": {
+            "title": "Sales Consultant",
+            "key_skill": "Problem solving"
+        },
+        "address": {
+            "city": "Port Sid",
+            "street_name": "Shizuko Unions",
+            "street_address": "7042 Mei Union",
+            "zip_code": "56023-6796",
+            "state": "Texas",
+            "country": "United States",
+            "coordinates": {
+                "lat": 29.124815080601806,
+                "lng": -52.01789697476312
+            }
+        },
+        "credit_card": {
+            "cc_number": "6771-8982-4885-7139"
+        },
+        "subscription": {
+            "plan": "Premium",
+            "status": "Active",
+            "payment_method": "Money transfer",
+            "term": "Monthly"
+        }
+    },
+    {
+        "id": 4506,
+        "uid": "1f8ef347-e420-4e50-8b66-8cf92ab6ad74",
+        "password": "RQpDo89cFw",
+        "first_name": "Trent",
+        "last_name": "Quitzon",
+        "username": "trent.quitzon",
+        "email": "trent.quitzon@email.com",
+        "avatar": "https://robohash.org/quibusdamautquisquam.png?size=300x300&set=set1",
+        "gender": "Genderqueer",
+        "phone_number": "+675 (698) 414-6258 x469",
+        "social_insurance_number": "193053717",
+        "date_of_birth": "1999-03-10",
+        "employment": {
+            "title": "Legal Administrator",
+            "key_skill": "Leadership"
+        },
+        "address": {
+            "city": "Schroederchester",
+            "street_name": "Macejkovic Via",
+            "street_address": "5634 Tyron Ferry",
+            "zip_code": "75541",
+            "state": "Alabama",
+            "country": "United States",
+            "coordinates": {
+                "lat": 22.21205024489973,
+                "lng": 139.04500158922622
+            }
+        },
+        "credit_card": {
+            "cc_number": "4409687671791"
+        },
+        "subscription": {
+            "plan": "Starter",
+            "status": "Pending",
+            "payment_method": "Apple Pay",
+            "term": "Full subscription"
+        }
+    }
+]
+
 
 ## 6. Viết test script trong Postman
 
